@@ -1,9 +1,9 @@
 # ITR Filing Guide: FY 2025-26 
 
-A quick-start guide for filing Income Tax Returns (ITR) specifically tailored for salaried employees at Amazon India with an annual income of **₹2.9 LPA**.
+A quick-start guide for filing Income Tax Returns (ITR) specifically tailored for salaried employees with an annual income of **00.00 LPA**.
 
 ## 📌 Overview
-For **Financial Year 2025-26** (Assessment Year 2026-27), an income of ₹2.9 LPA falls below the basic exemption limit (₹4 Lakh under the New Tax Regime). 
+For **Financial Year 2025-26** (Assessment Year 2026-27), an income of 00.00 LPA falls below the basic exemption limit (₹4 Lakh under the New Tax Regime). 
 
 > **Note:** While tax liability is ₹0, filing a **Nil ITR** is recommended for income proof, visa processing, and claiming TDS refunds.
 
